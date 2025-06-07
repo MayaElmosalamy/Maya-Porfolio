@@ -1,4 +1,4 @@
-# 👨‍💻 [Maya] – Developer Portfolio
+# 👨‍💻 Maya – Developer Portfolio
 
 Welcome to my AI and Machine Learning portfolio!  
 I'm passionate about solving real-world problems through cutting-edge technologies like machine learning, deep learning, and full-stack development.
