@@ -78,8 +78,8 @@ A complete patient–doctor management system including appointment booking, dia
 
 ## 📄 Resume & Contact
 
-- 📧 Email: [mayaelmosalamy@gmail.com]
-- 📄 [Resume (PDF Link)](https://example.com/resume.pdf)
+- 📧 Email: mayaelmosalamy@gmail.com
+- 📄 Resume (PDF Link)(https://example.com/resume.pdf)
 - 💬 Languages: Arabic, English, German
 
 ---
