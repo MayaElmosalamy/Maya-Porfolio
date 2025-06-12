@@ -64,6 +64,18 @@ A credit risk prediction system that classifies applicants as **"good"** or **"b
 
 ---
 
+### 🛣️ 5.Lane Detection for Autonomous Driving (Traditional CV)
+**Category:** Computer Vision  
+Traditional lane detection using **Canny Edge Detection** and **Hough Line Transform** on driving videos.
+
+- **Tech Stack:** Python, OpenCV, NumPy
+- **Features:** ROI masking, real-time video processing, edge-based lane detection
+- **Focus:** Classical CV pipeline, geometric filtering, visualization
+
+🔗 [Repository Link](https://github.com/Mayonaisey/lane-detection-imageprocessing)
+
+---
+
 ## 📈 Summary
 
 | Project | Category | Key Skills & Tools |
