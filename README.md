@@ -9,12 +9,24 @@ I'm passionate about solving real-world problems through cutting-edge technologi
 
 - **Languages:** Python, JavaScript, Java, C++, C#, PHP
 - **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Transformers
-- **NLP:** NLTK, spaCy, BERT, AraBERT, HuggingFace
+- **NLP:** NLTK, spaCy, Tokenization, BERT, AraBERT, HuggingFace
 - **Web/Tools:** Git, GitHub, HTML, CSS, SQL, Google Colab, VS Code, Visual Studio, Kaggle
 
 ---
 
 ## 🚀 Featured Projects
+
+### 📰 1. Fake News Detection in Arabic and English (Data Science)
+**Category:** NLP / Classification  
+A Natural Language Processing system to detect fake news articles in **both Arabic and English**, using transformer-based models.
+
+- **Tech Stack:** Python, HuggingFace Transformers, AraBERT, scikit-learn
+- **Features:** Multi-language support, Arabic text preprocessing, model comparison
+- **Focus:** Tokenization, BERT fine-tuning, TF-IDF vs. transformer methods
+
+🔗 [Repository Link](https://github.com/yourusername/fake-news-nlp)
+
+---
 
 ### 🛣️ 2. Lane Detection for Autonomous Driving (Advanced AI)
 **Category:** Deep Learning  
@@ -28,19 +40,7 @@ Deep learning-based lane detection system trained on the **CurveLanes** dataset 
 
 ---
 
-### 📰 3. Fake News Detection in Arabic and English (Data Science)
-**Category:** NLP / Classification  
-A Natural Language Processing system to detect fake news articles in **both Arabic and English**, using transformer-based models.
-
-- **Tech Stack:** Python, HuggingFace Transformers, AraBERT, scikit-learn
-- **Features:** Multi-language support, Arabic text preprocessing, model comparison
-- **Focus:** Tokenization, BERT fine-tuning, TF-IDF vs. transformer methods
-
-🔗 [Repository Link](https://github.com/yourusername/fake-news-nlp)
-
----
-
-### 🧪 4. Medical Report Classifier (Machine Learning)
+### 🧪 3. Medical Report Classifier (Machine Learning)
 **Category:** Classification  
 A supervised learning pipeline to classify medical imaging reports as **Normal**, **Abnormal**, or **Inconclusive**.
 
@@ -53,12 +53,12 @@ A supervised learning pipeline to classify medical imaging reports as **Normal**
 ---
 
 
-### 🏥 1. Full-Stack Healthcare System (Software Engineering)
+### 🏥 4. Full-Stack Healthcare System (Software Engineering)
 **Category:** Software Development  
 A complete patient–doctor management system including appointment booking, diagnosis records, and a secure login interface.
 
-- **Tech Stack:** Java, MySQL, JavaFX, JDBC
-- **Features:** Patient and doctor roles, diagnosis uploads, appointment scheduling
+- **Tech Stack:** Java, MySQL, JavaFX
+- **Features:** Patient and doctor roles and appointment scheduling
 - **Focus:** Software design, UML diagrams, object-oriented programming
 
 🔗 [Repository Link](https://github.com/yourusername/healthcare-system)
@@ -69,10 +69,10 @@ A complete patient–doctor management system including appointment booking, dia
 
 | Project | Area | Key Skills |
 |--------|------|------------|
-| Healthcare System | OOP, Full-stack | Java, SQL, UI Design |
-| Lane Detection | Deep Learning | CNNs, PyTorch, OpenCV |
 | Fake News Detection | NLP | AraBERT, Tokenization |
+| Lane Detection | Deep Learning | CNNs, PyTorch, OpenCV |
 | Medical Classifier | ML | Classification, scikit-learn |
+| Healthcare System | OOP, Full-stack | Java, SQL, UI Design |
 
 ---
 
