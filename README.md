@@ -10,7 +10,7 @@ I'm passionate about solving real-world problems through cutting-edge technologi
 - **Languages:** Python, JavaScript, Java, C++, C#, PHP
 - **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Transformers
 - **NLP:** NLTK, spaCy, Tokenization, DL/ML models, HuggingFace
-- **Web/Tools:** Git, GitHub, HTML, CSS, SQL, Google Colab, VS Code, Visual Studio, Kaggle
+- **Web/Tools:** Git, GitHub, PyCharm, Google Colab, VS Code, Visual Studio, Kaggle, HTML, CSS, SQL
 
 ---
 
@@ -30,7 +30,7 @@ A Natural Language Processing system to detect fake news articles in **both Arab
 
 ### 🛣️ 2. Lane Detection for Autonomous Driving (Advanced AI)
 **Category:** Deep Learning  
-Deep learning-based lane detection system trained on the **CurveLanes** dataset for real-time video input.
+Deep learning-based lane detection system trained on the **TuSimple** dataset for real-time video input.
 
 - **Tech Stack:** Python, PyTorch, OpenCV
 - **Features:** Curve detection, real-time inference, frame-by-frame annotation
