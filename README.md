@@ -84,6 +84,8 @@ Traditional lane detection using **Canny Edge Detection** and **Hough Line Trans
 | **Lane Detection** | Deep Learning | CNNs, PyTorch, OpenCV |
 | **Healthcare Classification** | Machine Learning | PCA, PSO, SVM, Evaluation Metrics |
 | **Credit Risk Classification** | Machine Learning / Risk Analytics | Genetic Algorithm, GridSearchCV, Model Comparison |
+| **Lane Detection (OpenCV)** | Computer Vision   | Canny, Hough Transform, Region of Interest Masking, OpenCV            |
+
 
 ---
 
