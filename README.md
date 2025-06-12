@@ -9,7 +9,7 @@ I'm passionate about solving real-world problems through cutting-edge technologi
 
 - **Languages:** Python, JavaScript, Java, C++, C#, PHP
 - **AI/ML:** PyTorch, TensorFlow, Scikit-learn, OpenCV, Transformers
-- **NLP:** NLTK, spaCy, Tokenization, BERT, AraBERT, HuggingFace
+- **NLP:** NLTK, spaCy, Tokenization, DL/ML models, HuggingFace
 - **Web/Tools:** Git, GitHub, HTML, CSS, SQL, Google Colab, VS Code, Visual Studio, Kaggle
 
 ---
