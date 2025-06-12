@@ -24,7 +24,7 @@ A Natural Language Processing system to detect fake news articles in **both Arab
 - **Features:** Multi-language support, Arabic text preprocessing, model comparison
 - **Focus:** Tokenization, BERT fine-tuning, TF-IDF vs. transformer methods
 
-🔗 [Repository Link](https://github.com/Mayonaisey/fake-news-nlp)
+🔗 [Repository Link](https://github.com/MayaElmosalamy/fake-news-nlp)
 
 ---
 
@@ -36,7 +36,7 @@ Deep learning-based lane detection system trained on the **TuSimple** dataset fo
 - **Features:** Curve detection, real-time inference, frame-by-frame annotation
 - **Focus:** CNN architecture, dataset preprocessing, model evaluation
 
-🔗 [Repository Link](https://github.com/Mayonaisey/lane-detection-ai)
+🔗 [Repository Link](https://github.com/MayaElmosalamy/lane-detection-ai)
 
 ---
 
@@ -48,7 +48,7 @@ A multi-class classification system trained on a healthcare dataset to classify 
 - **Features:** PCA-based dimensionality reduction, Particle Swarm Optimization (PSO) for SVM hyperparameters, detailed evaluation metrics
 - **Focus:** Multi-model comparison (Logistic Regression, MLP, SVM, Naïve Bayes, Ensemble methods), PSO optimization, confusion matrix analysis
 
-🔗 [Repository Link](https://github.com/Mayonaisey/patient-classification-ML)
+🔗 [Repository Link](https://github.com/MayaElmosalamy/patient-classification-ML)
 
 ---
 
@@ -60,7 +60,7 @@ A credit risk prediction system that classifies applicants as **"good"** or **"b
 - **Features:** Genetic algorithm for feature selection, GridSearchCV tuning, multi-model comparison
 - **Focus:** Model interpretability, accuracy benchmarking, credit risk modeling
 
-🔗 [Repository Link](https://github.com/Mayonaisey/Credit-Card-Score-AI)
+🔗 [Repository Link](https://github.com/MayaElmosalamy/Credit-Card-Score-AI)
 
 ---
 
@@ -72,7 +72,7 @@ Traditional lane detection using **Canny Edge Detection** and **Hough Line Trans
 - **Features:** ROI masking, real-time video processing, edge-based lane detection
 - **Focus:** Classical CV pipeline, geometric filtering, visualization
 
-🔗 [Repository Link](https://github.com/Mayonaisey/lane-detection-imageprocessing)
+🔗 [Repository Link](https://github.com/MayaElmosalamy/lane-detection-imageprocessing)
 
 ---
 
@@ -92,7 +92,7 @@ Traditional lane detection using **Canny Edge Detection** and **Hough Line Trans
 ## 📄 Resume & Contact
 
 - 📧 Email: mayaelmosalamy@gmail.com
-- 📄 Resume (PDF Link)(https://github.com/Mayonaisey/Maya-Porfolio/blob/main/CV-MayaElmosalamy.pdf)
+- 📄 Resume (PDF Link)(https://github.com/MayaElmosalamy/Maya-Porfolio/blob/main/CV-MayaElmosalamy.pdf)
 - 💬 Languages: Arabic, English, German
 
 ---
