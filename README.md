@@ -36,43 +36,42 @@ Deep learning-based lane detection system trained on the **CurveLanes** dataset 
 - **Features:** Curve detection, real-time inference, frame-by-frame annotation
 - **Focus:** CNN architecture, dataset preprocessing, model evaluation
 
-🔗 [Repository Link](https://github.com/yourusername/lane-detection-ai)
+🔗 [Repository Link](https://github.com/Mayonaisey/lane-detection-ai)
 
 ---
 
-### 🧪 3. Medical Report Classifier (Machine Learning)
+### 🧪 3. Multi-Class Healthcare Classification (Machine Learning)
 **Category:** Classification  
-A supervised learning pipeline to classify medical imaging reports as **Normal**, **Abnormal**, or **Inconclusive**.
+A multi-class classification system trained on a healthcare dataset to classify patient test results as **“Normal”**, **“Abnormal”**, or **“Inconclusive”** using advanced preprocessing, PCA, and diverse ML models.
 
 - **Tech Stack:** Python, scikit-learn, pandas, seaborn
-- **Features:** Model comparison, evaluation metrics, confusion matrix visualization
-- **Focus:** Feature engineering, hyperparameter tuning, medical domain classification
+- **Features:** PCA-based dimensionality reduction, Particle Swarm Optimization (PSO) for SVM hyperparameters, detailed evaluation metrics
+- **Focus:** Multi-model comparison (Logistic Regression, MLP, SVM, Naïve Bayes, Ensemble methods), PSO optimization, confusion matrix analysis
 
-🔗 [Repository Link](https://github.com/yourusername/medical-classifier)
+🔗 [Repository Link](https://github.com/Mayonaisey/patient-classification-ML)
 
 ---
 
+### 💳 4. Credit Scorecard Risk Classification (Machine Learning)
+**Category:** Machine Learning, Feature Selection, Risk Analytics  
+A credit risk prediction system that classifies applicants as **"good"** or **"bad"** clients using personal and financial data. The project includes genetic algorithm-based feature selection and multiple ML models.
 
-### 🏥 4. Full-Stack Healthcare System (Software Engineering)
-**Category:** Software Development  
-A complete patient–doctor management system including appointment booking, diagnosis records, and a secure login interface.
+- **Tech Stack:** Python, scikit-learn, pandas, matplotlib
+- **Features:** Genetic algorithm for feature selection, GridSearchCV tuning, multi-model comparison
+- **Focus:** Model interpretability, accuracy benchmarking, credit risk modeling
 
-- **Tech Stack:** Java, MySQL, JavaFX
-- **Features:** Patient and doctor roles and appointment scheduling
-- **Focus:** Software design, UML diagrams, object-oriented programming
-
-🔗 [Repository Link](https://github.com/yourusername/healthcare-system)
+🔗 [Repository Link](https://github.com/Mayonaisey/Credit-Card-Score-AI)
 
 ---
 
 ## 📈 Summary
 
-| Project | Area | Key Skills |
-|--------|------|------------|
-| Fake News Detection | NLP | AraBERT, Tokenization |
-| Lane Detection | Deep Learning | CNNs, PyTorch, OpenCV |
-| Medical Classifier | ML | Classification, scikit-learn |
-| Healthcare System | OOP, Full-stack | Java, SQL, UI Design |
+| Project | Category | Key Skills & Tools |
+|--------|-----------|--------------------|
+| **Fake News Detection** | NLP / Classification | DL/ML Models, Tokenization, scikit-learn |
+| **Lane Detection** | Deep Learning | CNNs, PyTorch, OpenCV |
+| **Healthcare Classification** | Machine Learning | PCA, PSO, SVM, Evaluation Metrics |
+| **Credit Risk Classification** | Machine Learning / Risk Analytics | Genetic Algorithm, GridSearchCV, Model Comparison |
 
 ---
 
@@ -85,7 +84,3 @@ A complete patient–doctor management system including appointment booking, dia
 ---
 
 > “When AI meets purpose, technology becomes impact.”  
-
-
-
-
