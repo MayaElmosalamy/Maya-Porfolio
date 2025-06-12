@@ -24,7 +24,7 @@ A Natural Language Processing system to detect fake news articles in **both Arab
 - **Features:** Multi-language support, Arabic text preprocessing, model comparison
 - **Focus:** Tokenization, BERT fine-tuning, TF-IDF vs. transformer methods
 
-🔗 [Repository Link](https://github.com/yourusername/fake-news-nlp)
+🔗 [Repository Link](https://github.com/Mayonaisey/fake-news-nlp)
 
 ---
 
