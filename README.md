@@ -18,9 +18,9 @@ I'm passionate about solving real-world problems through cutting-edge technologi
 
 ### 📰 1. Fake News Detection in Arabic and English (Data Science)
 **Category:** NLP / Classification  
-A Natural Language Processing system to detect fake news articles in **both Arabic and English**, using transformer-based models.
+A Natural Language Processing system to detect fake news articles in **both Arabic and English**, using ML/DL based models.
 
-- **Tech Stack:** Python, HuggingFace Transformers, AraBERT, scikit-learn
+- **Tech Stack:** Python, HuggingFace Transformers, BiLSTM, BiGRU, ML/DL Models, scikit-learn
 - **Features:** Multi-language support, Arabic text preprocessing, model comparison
 - **Focus:** Tokenization, BERT fine-tuning, TF-IDF vs. transformer methods
 
