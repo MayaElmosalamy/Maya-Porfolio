@@ -78,7 +78,7 @@ A credit risk prediction system that classifies applicants as **"good"** or **"b
 ## 📄 Resume & Contact
 
 - 📧 Email: mayaelmosalamy@gmail.com
-- 📄 Resume (PDF Link)(https://example.com/resume.pdf)
+- 📄 Resume (PDF Link)(https://github.com/Mayonaisey/Maya-Porfolio/blob/main/CV-MayaElmosalamy.pdf)
 - 💬 Languages: Arabic, English, German
 
 ---
