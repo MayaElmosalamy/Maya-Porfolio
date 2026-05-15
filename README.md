@@ -120,7 +120,7 @@ Traditional lane detection using **Canny Edge Detection** and **Hough Line Trans
 ## 📄 Resume & Contact
 
 - 📧 Email: mayaelmosalamy@gmail.com  
-- 📄 Resume (PDF): https://github.com/MayaElmosalamy/Maya-Porfolio/blob/main/CV-MayaElmosalamy.pdf  
+- 📄 Resume (PDF): https://github.com/MayaElmosalamy/Maya-Porfolio/blob/main/MayaElmosalamyCV.pdf  
 - 💬 Languages: Arabic, English, German  
 
 ---
